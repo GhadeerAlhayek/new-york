@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Courgette";
+    src: url("../font/Courgette-Regular.ttf") format("truetype");
+}
+body {
+    max-width: 980px;
+    margin: 0px auto ;
+    color: #444 ;
+}
+em {
+    color: #4f89b9;
+}
+
+.thespan {
+    color: #003884;
+}
+
+
+
+
+header  {
+    text-align: center;
+}
+header ol {
+    text-align: left;
+}
+
+ 
+#qoutSimone p {
+    font-family: "Courgette";
+    text-align: center;
+    background-color: #d7e1ef ;
+    
+    margin: 100px ;
+    color: #003884;
+
+}
+
+#symboles h2 {
+    text-align: center;
+    color: #4f89b9;
+}
+
+#symboles h3 {
+    text-align: center;
+    color: #003884;
+
+}
+
+h1 ,h2, h3,header ol, #FOOT-ER {
+    font-family: "Courgette";
+}
+
+
+#geographie h2 {
+    text-align: center;
+    color: #4f89b9;
+}
+
+#demographie h2 {
+    text-align: center;
+    color: #4f89b9;
+}
+
+#border-line {
+    width: 100%;
+    border-bottom: 2px solid #003884 ;
+    margin: auto;
+    
+}
+
+
+#FOOT-ER  p {
+        color: #003884  ;
+}
+
+footer {
+    text-align: center;
+}
+
