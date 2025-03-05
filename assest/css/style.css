@@ -78,3 +78,20 @@ footer {
     text-align: center;
 }
 
+.flagPhoto {
+    float: right;
+}
+.statuePhoto {
+    float: left;
+}
+
+.bridgePhoto {
+    float: right;
+    height: 200px;
+}
+
+.taxiPhoto {
+    float: left;
+}
+
+
